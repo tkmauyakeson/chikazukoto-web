@@ -1,0 +1,35 @@
+{
+    "name": "近づ言",
+    "short_name": "近づ言",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F766E",
+    "theme_color": "#0F766E",
+    "description": "言葉の意味の近さを順位で当てる、日本語の言葉あてゲーム。",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
